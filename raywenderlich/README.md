@@ -1,8 +1,8 @@
-# Alfred workflow for getting raywenderlich.com feed([Download](raywenderlich.alfredworkflow))
+# Alfred workflow for getting raywenderlich.com feed([Download](https://github.com/softdevstory/alfred-workflows/blob/master/raywenderlich/raywenderlich.alfredworkflow))
 
 Display the recent ariticles from [raywenderlich.com](https://www.raywenderlich.com)
 
-![Screenshot](screenshot.png)
+![Screenshot](screen_shot.png)
 
 # Usage
 
